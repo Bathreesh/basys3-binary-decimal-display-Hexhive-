@@ -135,4 +135,9 @@ Full pin assignments → `constraints/basys3.xdc`
 - Vivado Design Suite (Xilinx/AMD)
 - Verilog HDL
 - Digilent Basys 3 — Artix-7 (`xc7a35tcpg236-1`)
-```
+---
+
+## License
+
+This project is open source under the [Hexhive](LICENSE).
+
